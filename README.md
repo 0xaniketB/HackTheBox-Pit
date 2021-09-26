@@ -1,4 +1,4 @@
-# PIT - SNMP - File Upload
+# HackTheBox - PIT Machine Writeup
 
 ![Screen Shot 2021-09-25 at 23 02 51](https://user-images.githubusercontent.com/87259078/134795598-a0a4b31f-055d-4180-9489-558aaccdf007.png)
 
